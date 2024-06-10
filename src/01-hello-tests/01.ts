@@ -9,3 +9,6 @@ export function summ(a: number, b: number) {
 export function mult(a: number, b: number) {
     return a * b
 }
+// export function mult(a: number, b: number) {
+//     return a * b
+// }
